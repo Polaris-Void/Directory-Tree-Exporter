@@ -1,3 +1,10 @@
+---
+
+### ۲. محتوای فایل `README.md` (نسخه انگلیسی)
+
+این متن را داخل فایل اصلی **`README.md`** قرار دهید:
+
+```markdown
 <p align="right">
   <a href="README_FA.md"> <strong>فارسی</strong></a>
 </p>
